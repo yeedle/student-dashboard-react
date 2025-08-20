@@ -1,6 +1,9 @@
 import { useAssignments } from "../context/AssignmentsContext";
 
 const Header = () => {
+  // TODO: Implement the logic to get the percentage of completed assignments
+  // Assignment: Add the logic to get the percentage of completed assignments
+  // Hint: Look at how other functions get stats, and useEffect to update the document title when neccessary
   document.title = `VP Dashboard - 0% Completed`;
 
   return (
