@@ -1,9 +1,9 @@
-import { AssignmentsProvider } from './context/AssignmentsContext';
-import Header from './components/Header';
-import Stats from './components/Stats';
-import AssignmentForm from './components/AssignmentForm';
-import AssignmentTable from './components/AssignmentTable';
-import './App.css';
+import { AssignmentsProvider } from "./context/AssignmentsContext";
+import Header from "./components/Header";
+import Stats from "./components/Stats";
+import AssignmentForm from "./components/AssignmentForm";
+import AssignmentTable from "./components/AssignmentTable";
+import "./App.css";
 
 function App() {
   return (
